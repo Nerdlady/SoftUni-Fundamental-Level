@@ -1,0 +1,1 @@
+23-Jan-16 18:39:53 - Warning - Warning: ping is too high - disconnect imminent23-Jan-16 18:39:53 - Error - Error parsing request23-Jan-16 18:39:53 - Critical - No connection string found in App.config23-Jan-16 18:39:53 - Fatal - mscorlib.dll does not respond
